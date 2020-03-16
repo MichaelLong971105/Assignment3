@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Secret Diary</string>
+    <string name="action_settings">Change Password</string>
+    <string name="confirm">Confirm</string>
+    <string name="please_enter_your_password">Please Enter Your Password</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Password Again</string>
+    <string name="new_password">New Password</string>
+    <string name="old_password">Old Password</string>
+    <string name="please_setup_your_password">Please Setup Your Password</string>
+    <string name="back">BACK</string>
+    <string name="edit_the_content_hint">Edit The Content</string>
+    <string name="please_enter_your_title_hint">Please Enter Your Title</string>
+    <string name="title">Title</string>
+    <string name="create_time">Created Time</string>
+    <string name="save">SAVE</string>
+    <string name="hints">Hints</string>
+    <string name="delete">DELETE</string>
+    <string name="view_a_record">View A Record</string>
+    <string name="create_a_new_record">Create A New Record</string>
+    <string name="logout">Logout</string>
+</resources>
